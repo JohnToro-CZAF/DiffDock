@@ -1,4 +1,4 @@
-name: diffdock
+name: python11-diffdock
 channels:
   - pyg
   - nvidia
